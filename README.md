@@ -1,1 +1,8 @@
 # FRDM-MCXN947-CANFD-1M-10M
+Note: IDE:  MCUXpresso IDE  11.9.0
+SDK:  SDK_2.14.0_FRDM_MCXN947
+
+Test software:  USB2CANFDx2-LINx2 (Max10Mbps)
+Test CANFD Module: ISO-MCUXN-CANFD
+
+CANFD  clock: 80Mbps.
